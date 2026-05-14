@@ -11,6 +11,6 @@
 ## NutriGuide AI – AI Powered Nutrition and Meal Tracking Platform
 
 #### TYPE - Copyright
-#### CURRENT STATUS - Submitted 
+#### CURRENT STATUS - Final Submitted 
 
 
